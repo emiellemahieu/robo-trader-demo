@@ -48,6 +48,6 @@ bqplot
 yfinance 
 arch 
 ib_insync 
-sklearn 
+scikit-learn
 scipy 
 seaborn
